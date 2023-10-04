@@ -1,7 +1,7 @@
 
 kilometros = 800 
 
-dias = 7
+dias = 8
 
 preciodelkilometro = 0.63
 
