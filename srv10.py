@@ -291,8 +291,7 @@ while True:
             if si_no == "s" or si_no == "S":
                 n = 0
 
-            elif si_no == "":
-                pass 
+
             else:
                 permiso = "n"              
         input ("\nPresione cualquier tecla para volver al menú... ")    
