@@ -1,4 +1,4 @@
-Validación del menú
+#Validación del menú
 def menu(msj):
     while True:
         try:
